@@ -1,0 +1,80 @@
+TERMOS DE LICENÇA DE USO — LINTRUCKS VTC
+Versão 1.0 · 8 de novembro de 2026
+
+© 2026 Lintrucks VTC. Todos os direitos reservados sobre o software e os
+materiais originais do projeto, ressalvadas as licenças de componentes de
+terceiros incluídas na distribuição.
+
+ARTIGO 1 — OBJETO E ACEITAÇÃO
+1.1. Estes termos regulam o uso do cliente Lintrucks VTC, seus componentes
+originais, interfaces e materiais fornecidos pelo projeto (“Software”).
+1.2. A instalação ou utilização do Software significa que o usuário leu e
+aceitou estes termos. Se não concordar, não instale nem utilize o Software.
+
+ARTIGO 2 — TITULARIDADE E PROTEÇÃO
+2.1. O Software é proprietário. A disponibilização de cópia não transfere ao
+usuário a titularidade do código, da interface, da marca ou de outros direitos
+intelectuais do projeto.
+2.2. O Software é protegido, entre outras normas aplicáveis, pela Lei nº
+9.609/1998, especialmente seus arts. 2º e 9º, e pela Lei nº 9.610/1998,
+inclusive o art. 7º, XII, e o art. 29, naquilo que se aplica a programas de
+computador. Os componentes de terceiros permanecem sujeitos às respectivas
+licenças e avisos.
+
+ARTIGO 3 — LICENÇA CONCEDIDA
+3.1. É concedida ao usuário uma licença pessoal, limitada, não exclusiva,
+revogável em caso de violação destes termos e não transferível para instalar e
+executar a versão disponibilizada para uso próprio.
+3.2. Salvo autorização escrita do titular ou hipótese permitida por lei, não é
+permitido vender, sublicenciar, alugar, publicar, redistribuir, modificar ou
+criar obra derivada dos componentes proprietários, nem remover avisos de
+titularidade. Permanecem preservadas as exceções legais aplicáveis.
+
+ARTIGO 4 — PERFIL GRATUITO E RECURSOS EMPRESARIAIS
+4.1. O cliente VTC e o acesso ao perfil de Motorista Independente são gratuitos,
+conforme os recursos disponibilizados pelo serviço.
+4.2. A participação de empresas em eventos e rankings da plataforma depende
+de cadastro empresarial aprovado e da mensalidade vigente informada no fluxo
+de cadastro/pagamento.
+4.3. O cadastro da empresa poderá ser aprovado após confirmação do pagamento
+recorrente pelo Mercado Pago ou após validação de cupom vigente emitido pelo
+administrador. O cupom válido é aplicado no cadastro empresarial e dispensa a
+cobrança inicial prevista para a ativação, conforme as condições do cupom.
+4.4. O processamento financeiro é realizado pelo Mercado Pago, sujeito aos
+termos e à disponibilidade desse provedor. A aprovação depende da confirmação
+recebida e validada pela plataforma.
+
+ARTIGO 5 — CREDENCIAIS E USO
+5.1. O usuário deve manter suas credenciais sob sigilo e utilizar apenas a
+conta que lhe foi atribuída ou cadastrada legitimamente.
+5.2. O usuário deve observar as regras da plataforma e não utilizar o Software
+para interferir no funcionamento de jogos, serviços, sistemas ou contas de
+terceiros.
+
+ARTIGO 6 — PRAZO E ENCERRAMENTO
+6.1. A licença vigora enquanto o usuário observar estes termos e a versão
+permanecer disponibilizada. O titular poderá suspender o acesso em caso de
+violação material, fraude ou inadimplência dos recursos empresariais pagos,
+observadas as regras aplicáveis e os procedimentos informados pela plataforma.
+6.2. O encerramento do acesso não transfere nem extingue os direitos
+intelectuais sobre o Software.
+
+ARTIGO 7 — DESENVOLVIMENTO COM AUXÍLIO DE INTELIGÊNCIA ARTIFICIAL
+7.1. Partes do desenvolvimento, revisão e documentação do Software foram
+realizadas com auxílio de ferramentas de inteligência artificial, sob direção,
+seleção e revisão humana. Essa informação não altera o caráter proprietário
+dos componentes originais licenciados por estes termos, nem substitui as
+licenças de terceiros.
+
+ARTIGO 8 — DISPOSIÇÕES FINAIS
+8.1. Estes termos são regidos pelas leis da República Federativa do Brasil.
+8.2. A interpretação e a execução destes termos devem respeitar direitos
+indisponíveis e normas de ordem pública, inclusive as proteções consumeristas
+quando aplicáveis. O foro competente será definido conforme a legislação
+brasileira aplicável.
+8.3. A distribuição inclui avisos próprios de dependências de terceiros. Em
+caso de conflito, a licença do componente de terceiro rege aquele componente.
+
+Referências oficiais:
+Lei nº 9.609/1998 — https://www2.camara.leg.br/legin/fed/lei/1998/lei-9609-19-fevereiro-1998-364738-publicacaooriginal-1-pl.html
+Lei nº 9.610/1998 — https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
