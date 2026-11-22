@@ -10,6 +10,7 @@ Baixe os instaladores em **[Releases](https://github.com/eritongrnascimento-svg/
 
 - **Windows:** execute o instalador `Setup.exe`.
 - **Linux AppImage:** marque o arquivo como executável. Para instalar as dependências, abra um terminal e execute `./Lintrucks-VTC-0.1.0-26-x86_64.AppImage --instalar-dependencias`. Depois abra o AppImage normalmente.
+- **Fedora 45 x86_64:** instale com `sudo dnf install ./lintrucks-vtc-0.1.0-26.fc45.x86_64.rpm`.
 - **Debian/Ubuntu:** instale com `sudo apt install ./Lintrucks-VTC_0.1.0-26_amd64.deb`.
 
 Linux: x86_64, glibc 2.35+, GTK3, OpenGL/EGL e chaveiro Secret Service desbloqueado. AppImage usa bibliotecas do sistema; o assistente reconhece Debian/Ubuntu, Arch, Fedora e openSUSE. Outras bases exigem equivalentes locais. O HUD precisa de X11/XWayland; tela cheia exclusiva e alguns compositores podem limitar a sobreposição.

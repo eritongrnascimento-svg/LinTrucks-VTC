@@ -12,3 +12,7 @@ Atualização restrita aos áudios e seus gatilhos, usando as três gravações 
 **Preservados:** tolerâncias, duração de mais de 10 segundos, classes Arcade/Realista/Platina, valores e processamento das multas, autenticação, HUD e sincronização. O controle de som continua sem interferir no registro. Nenhuma alteração na VPS.
 
 Feche jogo e cliente antes de instalar. Baixe o Setup para Windows ou AppImage/.deb para Linux e confira `SHA256SUMS.txt`. Linux continua exigindo glibc 2.35+ e dependências do sistema. Os fontes proprietários permanecem privados; os avisos/fontes de terceiros continuam disponíveis à parte.
+
+## Compatibilidade com Fedora 45
+
+O patch Linux mantém a versão 0.1.0-26 e acrescenta o RPM nativo x86_64 para Fedora 45. O AppImage e o DEB atualizados incluem a documentação e os metadados do aplicativo. O cliente permanece proprietário.
